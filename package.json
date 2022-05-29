@@ -5,7 +5,6 @@
     "node": "<=16.8.0"
   },
   "version": "0.1.0",
-  "homepage": "https://metakunal.github.io/attendvanc",
   "private": true,
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
