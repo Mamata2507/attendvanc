@@ -2,7 +2,7 @@
   "name": "client",
   "engines": {
     "npm": ">=7.0.0",
-    "node": ">=14.0.0"
+    "node": "<=17.0.0"
   },
   "version": "0.1.0",
   "homepage": "https://metakunal.github.io/attendvanc",
