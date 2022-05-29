@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/attendvanc/static/css/main.5dd63815.chunk.css",
+    "main.js": "/attendvanc/static/js/main.897e2a20.chunk.js",
+    "main.js.map": "/attendvanc/static/js/main.897e2a20.chunk.js.map",
+    "runtime-main.js": "/attendvanc/static/js/runtime-main.2a3a5261.js",
+    "runtime-main.js.map": "/attendvanc/static/js/runtime-main.2a3a5261.js.map",
+    "static/css/2.34fcde48.chunk.css": "/attendvanc/static/css/2.34fcde48.chunk.css",
+    "static/js/2.374a09a8.chunk.js": "/attendvanc/static/js/2.374a09a8.chunk.js",
+    "static/js/2.374a09a8.chunk.js.map": "/attendvanc/static/js/2.374a09a8.chunk.js.map",
+    "index.html": "/attendvanc/index.html",
+    "precache-manifest.6b33346268fbc9c7064add36c386ded4.js": "/attendvanc/precache-manifest.6b33346268fbc9c7064add36c386ded4.js",
+    "service-worker.js": "/attendvanc/service-worker.js",
+    "static/css/2.34fcde48.chunk.css.map": "/attendvanc/static/css/2.34fcde48.chunk.css.map",
+    "static/css/main.5dd63815.chunk.css.map": "/attendvanc/static/css/main.5dd63815.chunk.css.map",
+    "static/js/2.374a09a8.chunk.js.LICENSE.txt": "/attendvanc/static/js/2.374a09a8.chunk.js.LICENSE.txt",
+    "static/js/main.897e2a20.chunk.js.LICENSE.txt": "/attendvanc/static/js/main.897e2a20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a3a5261.js",
+    "static/css/2.34fcde48.chunk.css",
+    "static/js/2.374a09a8.chunk.js",
+    "static/css/main.5dd63815.chunk.css",
+    "static/js/main.897e2a20.chunk.js"
+  ]
+}
